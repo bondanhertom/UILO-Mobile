@@ -1,0 +1,300 @@
+{
+  "Users": [
+    {
+      "username": "Bondan",
+      "email": "bondanherutomo35@gmail.com",
+      "password": "bondan123",
+      "role": "Admin",
+      "phoneNumber": "082111733373",
+      "address": "Depok Jawa barat"
+    },
+    {
+      "username": "Vivi",
+      "email": "vivialfianau@gmail.com",
+      "password": "vivi123",
+      "role": "Admin",
+      "phoneNumber": "082888700373",
+      "address": "Depok Jawa barat"
+    }
+  ],
+  "Products": [
+    {
+      "id": 3,
+      "name": "Celana Lebar Lipit",
+      "slug": "celana-lebar-lipit-",
+      "description": "Celana panjang Wanita dengan desain lebar dan bahan yang terlihat mewah. Aksen lipit dan belt loops untuk tampilan rapi.",
+      "price": 599000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457376001/item/idgoods_31_457376001.jpg?width=750",
+      "categoryId": 3,
+      "authorId": 1,
+      "createdAt": "2023-04-15 20:13:31.931+00",
+      "updatedAt": "2023-04-15 23:19:30.95+00"
+    },
+    {
+      "id": 16,
+      "name": "AIRism Katun T-Shirt",
+      "slug": "airism-katun-t-shirt",
+      "description": "T-shirt Wanita dari bahan 'AIRism' yang halus dengan tampilan katun. Potongan lebar dengan ukuran sedikit lebih pendek.",
+      "price": 500000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457939/item/idgoods_60_457939.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-16 10:05:46.221+00",
+      "updatedAt": "2023-04-16 10:05:46.221+00"
+    },
+    {
+      "id": 17,
+      "name": "Gaun Katun Slub",
+      "slug": "gaun-katun-slub",
+      "description": "Gaun Wanita yang terbuat dari bahan slub dengan tekstur natural. Terdapat belt untuk berbagai pilihan styling.",
+      "price": 599000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/459246/item/idgoods_09_459246.jpg?width=750",
+      "categoryId": 6,
+      "authorId": 1,
+      "createdAt": "2023-04-16 10:11:04.877+00",
+      "updatedAt": "2023-04-16 10:11:04.877+00"
+    },
+    {
+      "id": 18,
+      "name": "Jaket AirSense",
+      "slug": "jaket-airsense",
+      "description": "Jaket performa tinggi untuk Pria yang terasa ringan, lentur, dan cepat kering. Cocok untuk kegiatan formal",
+      "price": 899000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/448034/item/idgoods_69_448034.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-16 10:13:59.686+00",
+      "updatedAt": "2023-04-16 10:13:59.686+00"
+    },
+    {
+      "id": 19,
+      "name": "Coverall Katun Linen",
+      "slug": "coverall-katun-linen",
+      "description": "Jaket kemeja Wanita yang ringan dengan bahan katun linen yang lembut.",
+      "price": 899000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457374/item/idgoods_69_457374.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-16 10:17:48.799+00",
+      "updatedAt": "2023-04-16 10:17:48.799+00"
+    },
+    {
+      "id": 20,
+      "name": "Kaos Polo Crop Kerah Skippers",
+      "slug": "kaos-polo-crop-kerah-skippers",
+      "description": "Kaos polo kerah terbuka dengan siluet ramping yang pas. Kenakan sebagai baju couple dengan Kaos Polo Dry Pique Lengan Pendek.",
+      "price": 600000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457326/item/idgoods_09_457326.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-16 10:20:30.264+00",
+      "updatedAt": "2023-04-18 13:52:12.534+00"
+    },
+    {
+      "id": 15,
+      "name": "T-Shirt Lengan Panjang",
+      "slug": "t-shirt-lengan-panjang",
+      "description": "T-shirt garis berbahan 100% katun. Dengan gaya retro unik.",
+      "price": 500000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455406/item/goods_01_455406.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-16 09:59:32.47+00",
+      "updatedAt": "2023-04-29 13:22:06.102+00"
+    },
+    {
+      "id": 2,
+      "name": "Jaket Relax Tailored",
+      "slug": "jaket-relax-tailored-",
+      "description": "Jas formal untuk acara resmi. Terbuat dari bahan berkualitas tinggi dan memiliki potongan yang pas di badan.",
+      "price": 1500000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/item/goods_69_453032.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-04-15 20:13:31.931+00",
+      "updatedAt": "2023-04-29 13:22:38.018+00"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "ATASAN",
+      "createdAt": "2023-04-15 20:13:31.927+00",
+      "updatedAt": "2023-04-15 20:13:31.927+00"
+    },
+    {
+      "id": 3,
+      "name": "BAWAHAN",
+      "createdAt": "2023-04-15 20:13:31.927+00",
+      "updatedAt": "2023-04-15 20:13:31.927+00"
+    },
+    {
+      "id": 6,
+      "name": "GAUN",
+      "createdAt": "2023-04-16 10:09:18.411+00",
+      "updatedAt": "2023-04-16 10:09:18.411+00"
+    },
+    {
+      "id": 9,
+      "name": "HIJAB",
+      "createdAt": "2023-04-18 13:52:51.282+00",
+      "updatedAt": "2023-04-18 13:53:00.862+00"
+    }
+  ],
+  "Images": [
+    {
+      "id": 3,
+      "productId": 2,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/sub/goods_453032_sub17.jpg?width=750",
+      "createdAt": "2023-04-15 20:13:31.936+00",
+      "updatedAt": "2023-04-15 20:13:31.936+00"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/sub/goods_453032_sub18.jpg?width=750",
+      "createdAt": "2023-04-15 20:13:31.936+00",
+      "updatedAt": "2023-04-15 20:13:31.936+00"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457376001/sub/goods_457376001_sub11.jpg?width=750",
+      "createdAt": "2023-04-15 20:13:31.936+00",
+      "updatedAt": "2023-04-15 20:13:31.936+00"
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457376001/sub/goods_457376001_sub17.jpg?width=750",
+      "createdAt": "2023-04-15 20:13:31.936+00",
+      "updatedAt": "2023-04-15 20:13:31.936+00"
+    },
+    {
+      "id": 34,
+      "productId": 15,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455406/sub/goods_455406_sub17.jpg?width=750",
+      "createdAt": "2023-04-16 09:59:32.476+00",
+      "updatedAt": "2023-04-16 09:59:32.476+00"
+    },
+    {
+      "id": 35,
+      "productId": 15,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455406/sub/goods_455406_sub24.jpg?width=750",
+      "createdAt": "2023-04-16 09:59:32.476+00",
+      "updatedAt": "2023-04-16 09:59:32.476+00"
+    },
+    {
+      "id": 36,
+      "productId": 15,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455406/sub/goods_455406_sub18.jpg?width=750",
+      "createdAt": "2023-04-16 09:59:32.476+00",
+      "updatedAt": "2023-04-16 09:59:32.476+00"
+    },
+    {
+      "id": 37,
+      "productId": 16,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457939/sub/goods_457939_sub17.jpg?width=750",
+      "createdAt": "2023-04-16 10:05:46.223+00",
+      "updatedAt": "2023-04-16 10:05:46.223+00"
+    },
+    {
+      "id": 38,
+      "productId": 16,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457939/sub/goods_457939_sub14.jpg?width=750",
+      "createdAt": "2023-04-16 10:05:46.223+00",
+      "updatedAt": "2023-04-16 10:05:46.223+00"
+    },
+    {
+      "id": 39,
+      "productId": 16,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457939/sub/goods_457939_sub19.jpg?width=750",
+      "createdAt": "2023-04-16 10:05:46.223+00",
+      "updatedAt": "2023-04-16 10:05:46.223+00"
+    },
+    {
+      "id": 40,
+      "productId": 17,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459246/sub/goods_459246_sub11.jpg?width=750",
+      "createdAt": "2023-04-16 10:11:04.879+00",
+      "updatedAt": "2023-04-16 10:11:04.879+00"
+    },
+    {
+      "id": 41,
+      "productId": 17,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459246/sub/goods_459246_sub12.jpg?width=750",
+      "createdAt": "2023-04-16 10:11:04.879+00",
+      "updatedAt": "2023-04-16 10:11:04.879+00"
+    },
+    {
+      "id": 42,
+      "productId": 17,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459246/sub/goods_459246_sub17.jpg?width=750",
+      "createdAt": "2023-04-16 10:11:04.879+00",
+      "updatedAt": "2023-04-16 10:11:04.879+00"
+    },
+    {
+      "id": 43,
+      "productId": 18,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/448034/sub/idgoods_448034_sub1.jpg?width=750",
+      "createdAt": "2023-04-16 10:13:59.688+00",
+      "updatedAt": "2023-04-16 10:13:59.688+00"
+    },
+    {
+      "id": 44,
+      "productId": 18,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/448034/sub/goods_448034_sub14.jpg?width=750",
+      "createdAt": "2023-04-16 10:13:59.688+00",
+      "updatedAt": "2023-04-16 10:13:59.688+00"
+    },
+    {
+      "id": 45,
+      "productId": 18,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/448034/sub/goods_448034_sub19.jpg?width=750",
+      "createdAt": "2023-04-16 10:13:59.688+00",
+      "updatedAt": "2023-04-16 10:13:59.688+00"
+    },
+    {
+      "id": 46,
+      "productId": 19,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457374/sub/idgoods_457374_sub8.jpg?width=750",
+      "createdAt": "2023-04-16 10:17:48.801+00",
+      "updatedAt": "2023-04-16 10:17:48.801+00"
+    },
+    {
+      "id": 47,
+      "productId": 19,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457374/sub/idgoods_457374_sub9.jpg?width=750",
+      "createdAt": "2023-04-16 10:17:48.801+00",
+      "updatedAt": "2023-04-16 10:17:48.801+00"
+    },
+    {
+      "id": 48,
+      "productId": 19,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457374/sub/goods_457374_sub11.jpg?width=750",
+      "createdAt": "2023-04-16 10:17:48.801+00",
+      "updatedAt": "2023-04-16 10:17:48.801+00"
+    },
+    {
+      "id": 49,
+      "productId": 20,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457326/sub/idgoods_457326_sub7.jpg?width=750",
+      "createdAt": "2023-04-16 10:20:30.266+00",
+      "updatedAt": "2023-04-16 10:20:30.266+00"
+    },
+    {
+      "id": 50,
+      "productId": 20,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457326/sub/idgoods_457326_sub8.jpg?width=750",
+      "createdAt": "2023-04-16 10:20:30.266+00",
+      "updatedAt": "2023-04-16 10:20:30.266+00"
+    },
+    {
+      "id": 51,
+      "productId": 20,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457326/sub/idgoods_457326_sub9.jpg?width=750",
+      "createdAt": "2023-04-16 10:20:30.266+00",
+      "updatedAt": "2023-04-16 10:20:30.266+00"
+    }
+  ]
+}

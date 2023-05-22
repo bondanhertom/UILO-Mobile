@@ -1,0 +1,21 @@
+version: "1.0"
+
+services:
+    services-app:
+        build: ./services/app
+        container_name: services-app
+        ports:
+            - "4002:4002"
+    services-user:
+        build: ./services/users
+        container_name: services-user
+        ports:
+            - "4001:4001"
+    orchestrator:
+        build: ./orchestrator
+        container_name: orchestrator
+        ports:
+            - "80:4000"
+        environment:
+            - BASE_URL_USER=http://services-user:4001
+            - BASE_URL_PRODUCT=http://services-app:4002
